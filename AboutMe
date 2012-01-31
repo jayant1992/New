@@ -1,0 +1,53 @@
+<html>
+	<head>
+		<title>Jayant Jain</title>
+		<link type = "text/css" href = "stylesheet.css" rel = stylesheet />
+<script src="basic.js"></script>
+	</head>
+
+	<body>
+
+		<h1>About me</h1>
+		<img src = "http://a2.sphotos.ak.fbcdn.net/hphotos-ak-snc4/39750_1493572291705_1005965595_1408340_6582314_n.jpg" alt = "Profile Pic" class="center"/>
+	
+	<div class="center" id="box1">	
+	<p>
+	I'm a nice, friendly, smart (hopefully) and somewhat lazy guy. I'm from delhi, though I've lived in quite a few places, since my dad is in the railways (now dont come to me about reservations and stuff). I've done my schooling from six different schools, so you get the idea. People think I'm kind of shy, but that's not really true, I just take time to open up. These lines are so long, I just cant fill them, so I'll jump to my hobbies.
+	</p>
+	</div>
+
+
+
+	
+	<div class="center" id="box2">
+	<h2> My hobbies </h2>
+	<ul>
+		<li>Playing and watching sports 
+		<ol>
+			<li>Badminton</li>
+			<li>Table tennis</li>
+			<li>Tennis</li>
+			<li>Football (I'm an arsenal fan, though all i hear when i say that are cries of 8-2)</li>
+		</ol>
+		</li>
+	
+		<li>Listening to music</li>
+		<li>Playing guitar </li>
+		<li>Reading novels (when i was a kid, my dream was to write a fantasy novel. That one didnt come true, though i did write a couple of poems)	</li>
+		<li>Watching movies, and some sitcoms</li>
+		<li>Gaming</li>
+		<li>Thinking (hehe) </li>
+	</ul>
+	</div>
+	<div id="box3", class="center">
+	<h2>Favourite Quotations</h2>
+	<p>It's not who you are underneath, it's what you do that defines you --- Batman Begins</p>
+	<p>Remember that you are unique, just like everyone else is. </p>
+	<p>Life isn't about waiting for the storm to pass. Its about learning to dance in the rain.</p>
+	</div>
+	
+	<br/>
+	<div id = "bday"></div>
+	<input type="button" onmouseover="popup()" onmouseout="remove()" value="Show" align = "center"> </div>
+	</body>
+</html>
